@@ -25,6 +25,6 @@ spring:
     database: mysql
 application:
   config:
-    student-url: http://localhost:8090/api/v1/students
+    student-url: http://localhost:8222/api/v1/students
 
 
