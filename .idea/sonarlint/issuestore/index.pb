@@ -45,3 +45,7 @@ n
 >school/src/main/java/demo/school/model/FullSchoolResponse.java,0\e\0e226f47d687c7df15dbf8dcdacfeb0b2e3b6857
 j
 :school/src/main/java/demo/school/client/StudentClient.java,0\a\0a5b0722230d7a8d9cc559a616df859826ba5971
+j
+:gateway/src/main/java/demo/gateway/GatewayApplication.java,1\9\19180494b26ab682dda814b91ef217983a73e4ef
+z
+Jconfig-server/src/main/java/demo/configserver/ConfigServerApplication.java,8\8\88b005f66e74ffb7f6700be758f171b635188f8b
