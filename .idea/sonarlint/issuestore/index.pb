@@ -49,3 +49,6 @@ j
 :gateway/src/main/java/demo/gateway/GatewayApplication.java,1\9\19180494b26ab682dda814b91ef217983a73e4ef
 z
 Jconfig-server/src/main/java/demo/configserver/ConfigServerApplication.java,8\8\88b005f66e74ffb7f6700be758f171b635188f8b
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
